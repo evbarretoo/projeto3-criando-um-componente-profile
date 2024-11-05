@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+    background-color: rgb(106, 135, 216);
+}
+
+.card {
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.h1 {
+    font-size: 26px;
+    padding-bottom: 20px;
+    border-top: 2px;
+    border-color: rgb(106, 135, 216);
+}
+
+.bio {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.phone {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.email {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.githubBtn {
+    padding: 5px 30px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    background: rgb(70,95,186);
+    background: linear-gradient(90deg, rgba(70,95,186,1) 0%, rgba(123,169,228,1) 53%, rgba(122,153,231,1) 85%, rgba(122,153,231,1) 91%);
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.linkedinBtn {
+    padding: 5px 26px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    background: rgb(70,95,186);
+    background: linear-gradient(90deg, rgba(70,95,186,1) 0%, rgba(123,169,228,1) 53%, rgba(122,153,231,1) 85%, rgba(122,153,231,1) 91%);
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.twitterBtn {
+    padding: 5px 31px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    background: rgb(70,95,186);
+    background: linear-gradient(90deg, rgba(70,95,186,1) 0%, rgba(123,169,228,1) 53%, rgba(122,153,231,1) 85%, rgba(122,153,231,1) 91%);
+    font-weight: 600;
+}
