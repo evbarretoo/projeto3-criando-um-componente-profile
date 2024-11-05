@@ -16,23 +16,22 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    padding: 15px 25px;
     border-radius: 15px;
 }
 
 .img {
     width: 200px;
     border-radius: 50%;
+    padding: 0 25px;
 }
 
 .h1 {
     font-size: 26px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     border-bottom: 1px solid white;
 }
 
 .bio {
-    padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid white;
 }
