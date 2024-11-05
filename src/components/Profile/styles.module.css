@@ -57,6 +57,7 @@
     font-weight: 600;
     margin-top: 15px;
     margin-bottom: 15px;
+    cursor: pointer;
 }
 
 .linkedinBtn {
@@ -68,6 +69,7 @@
     background: linear-gradient(90deg, rgba(70,95,186,1) 0%, rgba(123,169,228,1) 53%, rgba(122,153,231,1) 85%, rgba(122,153,231,1) 91%);
     font-weight: 600;
     margin-bottom: 15px;
+    cursor: pointer;
 }
 
 .twitterBtn {
@@ -78,4 +80,5 @@
     background: rgb(70,95,186);
     background: linear-gradient(90deg, rgba(70,95,186,1) 0%, rgba(123,169,228,1) 53%, rgba(122,153,231,1) 85%, rgba(122,153,231,1) 91%);
     font-weight: 600;
+    cursor: pointer;
 }
