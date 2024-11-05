@@ -28,23 +28,25 @@
 .h1 {
     font-size: 26px;
     padding-bottom: 20px;
-    border-top: 2px;
-    border-color: rgb(106, 135, 216);
+    border-bottom: 1px solid white;
 }
 
 .bio {
     padding-top: 10px;
     padding-bottom: 10px;
+    border-bottom: 1px solid white;
 }
 
 .phone {
     padding-top: 10px;
     padding-bottom: 10px;
+    border-bottom: 1px solid white;
 }
 
 .email {
     padding-top: 10px;
     padding-bottom: 10px;
+    border-bottom: 1px solid white;
 }
 
 .githubBtn {
